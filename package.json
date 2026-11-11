@@ -4,6 +4,10 @@
   "description": "Dark, color-rich Visual Studio Code theme with a clear syntax hierarchy.",
   "version": "0.0.1",
   "publisher": "gravastar-theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ecthon/gravastar-theme.git"
+  },
   "engines": {
     "vscode": "^1.80.0"
   },
