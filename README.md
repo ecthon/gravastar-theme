@@ -64,3 +64,7 @@ Essas notas expressam uma avaliação de design, não resultados de estudos clí
 ## Desenvolvimento
 
 As cores da interface ficam em `colors` e as regras de sintaxe em `tokenColors` no arquivo `themes/gravastar-color-theme.json`. O tema também usa `semanticTokenColors` para linguagens que oferecem tokens semânticos.
+
+## Licença
+
+Distribuído sob a licença [MIT](./LICENSE).
