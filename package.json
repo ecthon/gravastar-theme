@@ -1,0 +1,22 @@
+{
+  "name": "gravastar-theme-vscode",
+  "displayName": "Gravastar",
+  "description": "Dark, color-rich Visual Studio Code theme with a clear syntax hierarchy.",
+  "version": "0.0.1",
+  "publisher": "gravastar-theme",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gravastar",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gravastar-color-theme.json"
+      }
+    ]
+  }
+}
